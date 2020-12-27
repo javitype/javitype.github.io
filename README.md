@@ -1,3 +1,3 @@
-# xd.github.io
-[A Password Generator](https://xd.github.io/passgen/)
-[Whats my IP?](https://xd.github.io/whatsmyip)
+# javitype.github.io
+[A Password Generator](https://javitype.github.io/passgen/)
+[Whats my IP?](https://javitype/whatsmyip)
